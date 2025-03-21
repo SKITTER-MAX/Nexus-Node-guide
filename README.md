@@ -9,3 +9,5 @@
 - [License](#-license)
 (`)Use `git clone` to download the repository (`)
 
+```javascript
+console.log("Hello, GitHub!");
