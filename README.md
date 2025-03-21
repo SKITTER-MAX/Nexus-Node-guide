@@ -7,5 +7,5 @@
 - [Tech Stack](#-tech-stack)
 - [Contributing](#-contributing)
 - [License](#-license)
-- (Use `git clone` to download the repository.)
+(`)Use `git clone` to download the repository (`)
 
