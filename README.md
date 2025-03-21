@@ -1,13 +1,4 @@
-# Nexus-Node-guide
-## 📖 Table of Contents
-- [About](#-about)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Screenshots](#-screenshots)
-- ```[Tech Stack](#-tech-stack)
-- [Contributing](#-contributing)
-- [License](#-license)
-(`)Use `git clone` to download the repository (`)
-
-```javascript
-console.log("Hello, GitHub!");
+<h1>Verify Installation</h1>
+```ollama --version
+<h1>Installation</h1>
+```curl -fsSL https://dria.co/launcher | bash
