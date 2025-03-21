@@ -4,7 +4,7 @@
 - [Features](#-features)
 - [Installation](#-installation)
 - [Screenshots](#-screenshots)
-- [Tech Stack](#-tech-stack)
+- ```[Tech Stack](#-tech-stack)
 - [Contributing](#-contributing)
 - [License](#-license)
 (`)Use `git clone` to download the repository (`)
